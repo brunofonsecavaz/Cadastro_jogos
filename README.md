@@ -1,4 +1,4 @@
-##Sobre o projeto
+## Sobre o projeto
 
 Este projeto foi desenvolvido com o objetivo de praticar conceitos de Python:
 
@@ -12,7 +12,7 @@ Criação e reutilização de funções
 
 Construção de um menu interativo em console
 
-##O que aprendi
+## O que aprendi
 
 Durante o desenvolvimento, consegui compreender:
 
